@@ -255,7 +255,9 @@ body {
         
       }
       .top_influencer_wrapper{
+        display: flex;
         flex-direction: column;
+
         align-items: center;
       }
       .top_influencer h1{
